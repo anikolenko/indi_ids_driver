@@ -29,9 +29,7 @@ The driver integrates IDS cameras into the INDI ecosystem and supports basic ima
 ## 🧰 Requirements
 
 - Linux system
-- INDI Library (libindidriver)
-- CFITSIO
-- ZLIB
+- INDI Library (libindi)
 - IDS uEye SDK for Linux (ueye.h, libueye_api.so)
 
 Tested and working on:
@@ -39,3 +37,8 @@ Tested and working on:
 Linux Ubuntu 22.04
 IDS Software Suite 4.96
 
+Install dependencies:
+
+```bash
+sudo apt install libindi-dev cmake build-essential
+sudo 
