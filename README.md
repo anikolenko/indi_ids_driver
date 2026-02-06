@@ -1,6 +1,6 @@
 # INDI Driver for IDS uEye Cameras (CCD)
 
-This is an open-source INDI driver for **IDS Imaging uEye industrial cameras**, allowing them to be used as CCD/CMOS cameras in astronomical imaging software via the INDI protocol.
+This is an open-source INDI driver for **IDS Imaging uEye industrial cameras**, allowing them to be used as imaging cameras in astronomical software via the INDI protocol.
 
 The driver integrates IDS cameras into the INDI ecosystem and supports basic imaging operations.
 
