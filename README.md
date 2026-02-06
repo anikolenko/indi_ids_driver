@@ -22,6 +22,7 @@ The driver integrates IDS cameras into the INDI ecosystem and supports basic ima
 - Frame size control (ROI) - buggy and not all dimensions available, 2000x2000, 1000x1000 - seems ok)
 - Gain / exposure handling
 - Sensor temperature readout
+- Camera LED blinking mode during exposure
 
 - Binning control - not yet imlemented 
 ---
