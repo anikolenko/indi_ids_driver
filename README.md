@@ -41,4 +41,6 @@ Install dependencies:
 
 ```bash
 sudo apt install libindi-dev cmake build-essential
-sudo 
+sudo dpkg -i ueye-api_4.96.1.2054_amd64.deb
+sudo dpkg -i ueye-dev_4.96.1.2054_amd64.deb
+
